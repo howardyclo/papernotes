@@ -1,1 +1,1 @@
-Paper notes are located at Issues.
+See Issues.
