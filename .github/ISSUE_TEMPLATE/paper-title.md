@@ -10,6 +10,10 @@ assignees: ''
 **1. Contributions:** Please list three things this paper contributes (e.g., theoretical, methodological, algorithmic, empirical contributions; bridging fields; or providing an important critical analysis). For each contribution, briefly state the level of significance (i.e., how much impact will this work have on researchers and practitioners in the future?). If you cannot think of three things, please explain why. Not all good papers will have three contributions.
 
 **2.  Detailed comments:** Please provide a thorough review of the submission, including its originality, quality, clarity, and significance.
+- Quality: Is the submission technically sound? Are claims well supported by theoretical analysis or experimental results? Is this a complete piece of work or work in progress? Are the authors careful and honest about evaluating both the strengths and weaknesses of their work?
+- Clarity: Is the submission clearly written? Is it well organized? (If not, please make constructive suggestions for improving its clarity.) Does it adequately inform the reader? (Note: a superbly written paper provides enough information for an expert reader to reproduce its results.)
+- Originality: Are the tasks or methods new? Is the work a novel combination of well-known techniques? Is it clear how this work differs from previous contributions? Is related work adequately cited?
+- Significance: Are the results important? Are others (researchers or practitioners) likely to use the ideas or build on them? Does the submission address a difficult task in a better way than previous work? Does it advance the state of the art in a demonstrable way? Does it provide unique data, unique conclusions about existing data, or a unique theoretical or experimental approach?
 
 **3.  Overall score:**
 - 10: Top 5% of accepted NeurIPS papers. Truly groundbreaking work. I will consider not reviewing for NeurIPS again if this submission is rejected.
